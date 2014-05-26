@@ -1,0 +1,1 @@
+zComponents is a library written in php5, which I plan to use with Slim and Twig. Aimed at small and medium web services.
